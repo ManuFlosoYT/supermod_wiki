@@ -1,0 +1,20 @@
+{
+    "name": "Endium Ore",
+    "icon": "supermod:endium_ore",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The endium ore is used to extract silicon from it.$(br2)It can be found on the deepslate layer."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "supermod:endium_ore_smelting"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:smithing_table",
+            "text": "Fuse an endium scrap with a netherite ingot to create an endium ingot."
+        }
+    ]
+}

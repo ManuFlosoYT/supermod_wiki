@@ -1,0 +1,17 @@
+{
+    "name": "Gold Seeds",
+    "icon": "supermod:oro_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Gold seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:oro_0"
+            }
+        }
+    ]
+}

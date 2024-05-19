@@ -1,0 +1,16 @@
+{
+    "name": "Backpacks",
+    "icon": "supermod:mochilagrande",
+    "category": "supermod:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Small Backpacks can store 72 slots.$(br2)$(li)Large Backpacks can store 232 slots."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:mochilacraft",
+            "recipe2": "supermod:mochilagrandecraft"
+        }
+    ]
+}

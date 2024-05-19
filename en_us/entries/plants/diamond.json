@@ -1,0 +1,17 @@
+{
+    "name": "Diamond Seeds",
+    "icon": "supermod:diamante_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Diamond seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:diamante_0"
+            }
+        }
+    ]
+}

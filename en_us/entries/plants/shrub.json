@@ -1,0 +1,17 @@
+{
+    "name": "Shrub",
+    "icon": "supermod:shrub",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Shrubs can be found naturally on the world"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:shrub"
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Wiki",
+    "icon": "patchouli:guide_book",
+    "category": "supermod:misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Seriously?...$(br)Did you just enter the wiki page for the wiki?...$(br)Why would you need this..$(br)stop reading....$(br)just why?...$(br)Bro be still reading (insert skull emoji)...$(br)Bro STOP reading NOW!!$(br)You dare opose me mortal?$(br)If you found this easter egg you are a true gamer$(br)El pollo ardiente :)"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:wiki_recipe"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "supermod:textures/modlogo_ultra_compressed.png"
+            ]
+        }
+    ]
+}

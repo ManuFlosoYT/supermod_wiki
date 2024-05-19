@@ -1,0 +1,15 @@
+{
+    "name": "Chiseled End Stone Bricks",
+    "icon": "supermod:chiseledendstonebricks",
+    "category": "supermod:blocks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This block can be found on the end on structures."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:chiseledendstonebricksrecipe"
+        }
+    ]
+}

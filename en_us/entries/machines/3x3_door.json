@@ -1,0 +1,15 @@
+{
+    "name": "3x3 Door",
+    "icon": "supermod:three_x_three_door",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The 3x3 Door can be toggled with redstone."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:three_x_three_door_recipe"
+        }
+    ]
+}

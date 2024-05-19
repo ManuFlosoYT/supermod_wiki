@@ -1,0 +1,16 @@
+{
+    "name": "Free Build Dimension",
+    "icon": "supermod:free_build",
+    "category": "supermod:misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is an empty dimension aimed towards free building.$(br2)Build a nether portal shape from this block and use the igniter to light up the portal."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:free_build_portal_frame_recipe",
+            "recipe2": "supermod:free_build_igniter_recipe"
+        }
+    ]
+}

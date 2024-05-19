@@ -1,0 +1,15 @@
+{
+    "name": "Tomato Sauce",
+    "icon": "supermod:tomatosauce",
+    "category": "supermod:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tomato Sauce is a crafting ingredient."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:tomato_sauce_recipe"
+        }
+    ]
+}

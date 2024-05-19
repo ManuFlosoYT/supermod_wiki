@@ -1,0 +1,15 @@
+{
+    "name": "Purpur",
+    "icon": "supermod:pupur",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Purpur can be obtained by crafting 4 end slime balls."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:purpurrecipe"
+        }
+    ]
+}

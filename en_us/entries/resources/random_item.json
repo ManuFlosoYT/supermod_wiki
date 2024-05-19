@@ -1,0 +1,15 @@
+{
+    "name": "Random Super Mod",
+    "icon": "supermod:random_item",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is a crafting material."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:randomrecipe"
+        }
+    ]
+}

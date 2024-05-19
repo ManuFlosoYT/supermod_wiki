@@ -1,0 +1,17 @@
+{
+    "name": "Clay Seeds",
+    "icon": "supermod:clay_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Clay seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:clay_0"
+            }
+        }
+    ]
+}

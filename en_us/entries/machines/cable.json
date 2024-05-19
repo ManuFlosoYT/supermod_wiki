@@ -1,0 +1,15 @@
+{
+    "name": "Copper Cable",
+    "icon": "supermod:cable_f_tier_i",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Copper cables transfer 64FE/tick to neighboring blocks."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:copper_cable_recipe"
+        }
+    ]
+}

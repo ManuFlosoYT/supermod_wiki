@@ -1,0 +1,17 @@
+{
+    "name": "Netherite Seeds",
+    "icon": "supermod:netherite_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Netherite seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:netherite_0"
+            }
+        }
+    ]
+}

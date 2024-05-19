@@ -1,0 +1,16 @@
+{
+    "name": "Tomato",
+    "icon": "supermod:tomato",
+    "category": "supermod:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tomato is a food and a crafting ingredient."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:tomato_7",
+            "text": "Tomatoes are obtained by collecting tomato crops."
+        }
+    ]
+}

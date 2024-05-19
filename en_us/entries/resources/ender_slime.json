@@ -1,0 +1,15 @@
+{
+    "name": "Ender Slime",
+    "icon": "supermod:enderball",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ender slime can be obtained by killing end slimes."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:enderball"
+        }
+    ]
+}

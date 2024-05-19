@@ -1,0 +1,15 @@
+{
+    "name": "Cracked End Stone",
+    "icon": "supermod:crackedendstone",
+    "category": "supermod:blocks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cracked end stone breaks when an entity steps on top of it"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "supermod:crackedendstonerecipe"
+        }
+    ]
+}

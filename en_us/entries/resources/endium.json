@@ -1,0 +1,45 @@
+{
+    "name": "Endium Set",
+    "icon": "supermod:endium_ingot",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Endium Set is a very powerful set infused from The End and The Nether."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:endium_ingot"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:endium_ore_block_recipe",
+            "recipe2": "supermod:endium_block_ore_recipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:endium_sword_recipe",
+            "recipe2": "supermod:endium_axe_recipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:endium_pickaxe_recipe",
+            "recipe2": "supermod:endiumhammerrecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:endium_shovel_recipe",
+            "recipe2": "supermod:endium_hoe_recipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:endium_armor_helmet_recipe",
+            "recipe2": "supermod:endium_armor_body_recipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:endium_armor_leggings_recipe",
+            "recipe2": "supermod:endium_armor_boots_recipe"
+        }
+    ]
+}

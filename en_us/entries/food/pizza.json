@@ -1,0 +1,15 @@
+{
+    "name": "Pizza",
+    "icon": "supermod:pizza",
+    "category": "supermod:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Pizza is a very powerful food."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:pizza_recipe"
+        }
+    ]
+}

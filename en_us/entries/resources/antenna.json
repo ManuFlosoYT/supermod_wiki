@@ -1,0 +1,15 @@
+{
+    "name": "Antenna",
+    "icon": "supermod:antena",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Antennaes are a crafting ingredient for making more complex machines."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:antenarecipe"
+        }
+    ]
+}

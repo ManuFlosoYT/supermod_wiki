@@ -1,0 +1,17 @@
+{
+    "name": "Copper Seeds",
+    "icon": "supermod:cobre_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Copper seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:cobre_0"
+            }
+        }
+    ]
+}

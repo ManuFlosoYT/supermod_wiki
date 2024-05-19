@@ -1,0 +1,17 @@
+{
+    "name": "Silicon Seeds",
+    "icon": "supermod:silicona_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Silicon seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:silicona_0"
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Amber",
+    "icon": "supermod:ambar_moscablock",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Find amber on geodes in the overworld."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:ambar_moscablock",
+            "text": "Breaking this block will drop amber and a fly."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:ambar_block"
+        }
+    ]
+}

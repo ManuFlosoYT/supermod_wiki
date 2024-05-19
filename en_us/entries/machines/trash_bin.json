@@ -1,0 +1,15 @@
+{
+    "name": "Trash Bin",
+    "icon": "supermod:basura",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Trash Bin can be used to destroy items."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:basurarecipe"
+        }
+    ]
+}

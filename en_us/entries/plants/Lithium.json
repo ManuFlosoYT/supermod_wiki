@@ -1,0 +1,17 @@
+{
+    "name": "Lithium Seeds",
+    "icon": "supermod:litio_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Lithium seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:litio_0"
+            }
+        }
+    ]
+}

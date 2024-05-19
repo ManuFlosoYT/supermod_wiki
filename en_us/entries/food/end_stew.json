@@ -1,0 +1,15 @@
+{
+    "name": "End Stew",
+    "icon": "supermod:endstew",
+    "category": "supermod:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "End stew is a food that can be made from resources from the end."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:endstewrecipe"
+        }
+    ]
+}

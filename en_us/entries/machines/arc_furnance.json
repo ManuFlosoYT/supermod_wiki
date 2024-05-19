@@ -1,0 +1,20 @@
+{
+    "name": "Arc Furnance",
+    "icon": "supermod:arc_furnance",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Arc Furnance is used to craft materials."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:arc_furnance_recipe"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:filledcan",
+            "text": "Liquid compound can be made in a Refinery."
+        }
+    ]
+}

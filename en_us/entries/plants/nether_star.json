@@ -1,0 +1,17 @@
+{
+    "name": "Nether Star Seeds",
+    "icon": "supermod:star_7",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Nether star seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:star_5"
+            }
+        }
+    ]
+}

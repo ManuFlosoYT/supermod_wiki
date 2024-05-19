@@ -1,0 +1,15 @@
+{
+    "name": "Infused End Stone Bricks",
+    "icon": "supermod:ladrillosembuidos",
+    "category": "supermod:blocks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This block can be found on the end on structures.$(br2)Infused end stone bricks deal 5 damage to all entities on top of it each tick$(br2)Players can sneak to avoid being damaged"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:infusedendstonebricksrecipe"
+        }
+    ]
+}

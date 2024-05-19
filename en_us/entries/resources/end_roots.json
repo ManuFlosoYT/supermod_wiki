@@ -1,0 +1,15 @@
+{
+    "name": "End Roots",
+    "icon": "supermod:endroots",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "End roots can be found on the end.$(br2)End roots can be used to craft end stew."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:endroots"
+        }
+    ]
+}

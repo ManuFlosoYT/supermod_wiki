@@ -1,0 +1,17 @@
+{
+    "name": "Obsidian Seeds",
+    "icon": "supermod:obsidiana_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Obsidian seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:obsidiana_0"
+            }
+        }
+    ]
+}

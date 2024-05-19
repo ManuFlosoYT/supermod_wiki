@@ -1,0 +1,23 @@
+{
+    "name": "Teleporter",
+    "icon": "supermod:teleporter",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The teleporter is used to teleport yourself to a saved location of the world."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:teleporter_recipe"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Use a teleport link to store the coordinates."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:teleport_link"
+        }
+    ]
+}

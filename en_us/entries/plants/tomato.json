@@ -1,0 +1,17 @@
+{
+    "name": "Tomato Seeds",
+    "icon": "supermod:tomato_7",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tomato seeds can be obtained by destroying tall grass."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:tomato_5"
+            }
+        }
+    ]
+}

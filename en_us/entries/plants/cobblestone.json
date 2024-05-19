@@ -1,0 +1,17 @@
+{
+    "name": "Cobblestone Seeds",
+    "icon": "supermod:cobble_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cobblestone seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:cobble_0"
+            }
+        }
+    ]
+}

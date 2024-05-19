@@ -1,0 +1,15 @@
+{
+    "name": "Magic Feather",
+    "icon": "supermod:magicfeather",
+    "category": "supermod:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Magic Feather launches the player very high in the air and applies the slow falling potion effect."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:magicfeatherrecipe"
+        }
+    ]
+}

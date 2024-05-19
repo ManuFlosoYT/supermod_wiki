@@ -1,0 +1,21 @@
+{
+    "name": "Shovels",
+    "icon": "supermod:netherite_shovel",
+    "category": "supermod:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Shovels mine a 3x3 area at once."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:iron_shovel_r",
+            "recipe2": "supermod:diamond_shovel_r"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:netherite_shovel_r",
+            "recipe2": "supermod:endium_shovel_r"
+        }
+    ]
+}

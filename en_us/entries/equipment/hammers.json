@@ -1,0 +1,21 @@
+{
+    "name": "Hammers",
+    "icon": "supermod:netheritehammer",
+    "category": "supermod:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Hammers mine a 3x3 area at once."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:ironhammerrecipe",
+            "recipe2": "supermod:diamondhammerrecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:netheritehammerrecipe",
+            "recipe2": "supermod:endiumhammerrecipe"
+        }
+    ]
+}

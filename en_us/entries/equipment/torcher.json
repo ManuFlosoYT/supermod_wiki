@@ -1,0 +1,15 @@
+{
+    "name": "Torcher",
+    "icon": "supermod:torcher",
+    "category": "supermod:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The torcher places a torch under you when shifting."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:torcherrecipe"
+        }
+    ]
+}

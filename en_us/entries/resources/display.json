@@ -1,0 +1,15 @@
+{
+    "name": "Display",
+    "icon": "supermod:pantalla",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The display is a crafting ingredient for more complex machines."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:pantallarecipe"
+        }
+    ]
+}

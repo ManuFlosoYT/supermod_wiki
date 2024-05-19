@@ -1,0 +1,20 @@
+{
+    "name": "End Lodestone",
+    "icon": "supermod:endlodestone",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:anchorpearl",
+            "text": "Place an end lodestone and right click with an anchor pearl to store location$(br2)Then left click in the air with the anchor pearl to go back to the lodestone"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:endlodestonerecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:anchorpearlrecipe"
+        }
+    ]
+}

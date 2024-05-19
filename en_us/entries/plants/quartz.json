@@ -1,0 +1,17 @@
+{
+    "name": "Quartz Seeds",
+    "icon": "supermod:cuarzo_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Quartz seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:cuarzo_0"
+            }
+        }
+    ]
+}

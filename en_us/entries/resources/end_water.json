@@ -1,0 +1,15 @@
+{
+    "name": "Ender Water",
+    "icon": "supermod:end_water_bucket",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ender water can be found on the end."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:end_water_bucket"
+        }
+    ]
+}

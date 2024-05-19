@@ -1,0 +1,15 @@
+{
+    "name": "Dough",
+    "icon": "supermod:masa",
+    "category": "supermod:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Dough is a crafting ingredient."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:masa_receta"
+        }
+    ]
+}

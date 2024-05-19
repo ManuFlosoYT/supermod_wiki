@@ -1,0 +1,31 @@
+{
+    "name": "Bank",
+    "icon": "supermod:bank",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The bank is an utility block where you can store your MineCoins for later.$(br2)MineCoins are used for trading with villagers."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:bank_recipe"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:coppercoin"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:silvercoin"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:goldcoin"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:platinumcoin"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Wafer Cutter",
+    "icon": "supermod:wafercutter",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Wafer Cutter is used to craft materials."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:wafer_cutter_recipe"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:semiconductor_wafer",
+            "text": "Semiconductor wafers can be made in a Wafercutter."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:chip",
+            "text": "Place a semiconductor wafer in a stonecutter to obtain chips."
+        }
+    ]
+}

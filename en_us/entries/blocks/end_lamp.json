@@ -1,0 +1,15 @@
+{
+    "name": "End Lamp",
+    "icon": "supermod:endlamp",
+    "category": "supermod:blocks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This block emits light."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:endlamprecipe"
+        }
+    ]
+}

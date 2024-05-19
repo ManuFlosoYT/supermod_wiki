@@ -1,0 +1,15 @@
+{
+    "name": "Cheese",
+    "icon": "supermod:cheese",
+    "category": "supermod:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cheese is a crafting ingredient."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "supermod:cheese_recipe"
+        }
+    ]
+}

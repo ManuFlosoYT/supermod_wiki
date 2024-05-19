@@ -1,0 +1,23 @@
+{
+    "name": "Decorative Blocks",
+    "icon": "supermod:deco_37",
+    "category": "supermod:blocks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Decorative blocks can be crafted in a stonecutter using a decorative base as input."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:decorative_base"
+            }
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "tag": "supermod:deco_blocks_item"
+            }
+        }
+    ]
+}

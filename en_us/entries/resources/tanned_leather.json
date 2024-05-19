@@ -1,0 +1,19 @@
+{
+    "name": "Tanned Leather",
+    "icon": "supermod:cuerocurtido",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tanned Leather is used to craft backpacks"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "supermod:cuerocurtidocraft"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:cuerocrudocraft"
+        }
+    ]
+}

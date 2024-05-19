@@ -1,0 +1,15 @@
+{
+    "name": "End Fungus",
+    "icon": "supermod:endfungus",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "End fungus can be found on the end.$(br2)End fungus can be used to craft end stew."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:endfungus"
+        }
+    ]
+}

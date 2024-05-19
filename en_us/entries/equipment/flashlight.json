@@ -1,0 +1,15 @@
+{
+    "name": "Flashlight",
+    "icon": "supermod:linternaoff",
+    "category": "supermod:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Flashlights can light up to 32 blocks in front of the player."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:linternareceta"
+        }
+    ]
+}

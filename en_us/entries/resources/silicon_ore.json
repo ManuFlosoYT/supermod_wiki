@@ -1,0 +1,16 @@
+{
+    "name": "Silicon Ore",
+    "icon": "supermod:siliconore",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Silicon ore is used to extract silicon from it.$(br2)It can be found on the deepslate layer."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supermod:siliconore",
+            "text": "Break silicon ore to obtain raw silicon."
+        }
+    ]
+}

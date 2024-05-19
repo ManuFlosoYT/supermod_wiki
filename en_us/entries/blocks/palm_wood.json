@@ -1,0 +1,49 @@
+{
+    "name": "Palm Wood",
+    "icon": "supermod:palm_log",
+    "category": "supermod:blocks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Palm wood is a full set of blocks available to the player"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:palm_sapling"
+            },
+            "text": "Palm saplings can be obtained by destroying tall grass.$(br2)Saplings can be grown into a palm tree by applying bonemeal."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:palm_log"
+            }
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:palm_wood_planks_recipe",
+            "recipe2": "supermod:palm_wood_wood_recipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:palm_wood_button_recipe",
+            "recipe2": "supermod:palm_wood_pressure_plate_recipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:palm_wood_slab_recipe",
+            "recipe2": "supermod:palm_wood_stairs_recipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:palm_wood_stick_recipe"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:palm_leaves"
+            }
+        }
+    ]
+}

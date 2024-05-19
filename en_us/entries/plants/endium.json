@@ -1,0 +1,17 @@
+{
+    "name": "Endium Seeds",
+    "icon": "supermod:endium_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Endium seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:endium_0"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lapislazuli Seeds",
+    "icon": "supermod:lapis_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Lapislazuli seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:lapis_0"
+            }
+        }
+    ]
+}

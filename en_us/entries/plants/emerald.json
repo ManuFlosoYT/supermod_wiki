@@ -1,0 +1,17 @@
+{
+    "name": "Emerald Seeds",
+    "icon": "supermod:esmeralda_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Emerald seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:esmeralda_0"
+            }
+        }
+    ]
+}

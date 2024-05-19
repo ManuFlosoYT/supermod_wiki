@@ -1,0 +1,15 @@
+{
+    "name": "Basic Solar Panel",
+    "icon": "supermod:basic_solar_panel",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Minezon can be used to trade items "
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:basic_solar_panel_recipe"
+        }
+    ]
+}

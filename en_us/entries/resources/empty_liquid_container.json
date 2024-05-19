@@ -1,0 +1,15 @@
+{
+    "name": "Empty Liquid Container",
+    "icon": "supermod:can",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This container can be used on various machines for crafting recipes."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:can_recipe"
+        }
+    ]
+}

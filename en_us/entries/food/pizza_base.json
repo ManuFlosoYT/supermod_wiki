@@ -1,0 +1,15 @@
+{
+    "name": "Pizza Base",
+    "icon": "supermod:cookeddough",
+    "category": "supermod:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Pizza base is a crafting ingredient."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "supermod:dough_recipe"
+        }
+    ]
+}

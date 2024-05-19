@@ -1,0 +1,25 @@
+{
+    "name": "Lithium Ore",
+    "icon": "supermod:lithium_ingot",
+    "category": "supermod:resources",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Lithium ore is used to extract raw lithium from it.$(br2)You can also smelt the ore directly."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "supermod:lithium_ingot_raw_recipe"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "supermod:lithium_ingot_recipe",
+            "recipe2": "supermod:lithium_ingot_recipe_deepslate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:lithium_block_recipe",
+            "recipe2": "supermod:lithium_ingot_recipe_from_block"
+        }
+    ]
+}

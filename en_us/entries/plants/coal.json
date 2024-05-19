@@ -1,0 +1,17 @@
+{
+    "name": "Coal Seeds",
+    "icon": "supermod:carbon_2",
+    "category": "supermod:plants",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Coal seeds can be bought on Minezon."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": {
+                "item": "supermod:carbon_0"
+            }
+        }
+    ]
+}
