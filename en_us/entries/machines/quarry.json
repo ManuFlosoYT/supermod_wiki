@@ -1,0 +1,15 @@
+{
+    "name": "Quarry",
+    "icon": "supermod:quarry",
+    "category": "supermod:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Quarry mines the entire chunk its placed on, breaking every block in the chunk bellow it and collecting the resources. It can be powered by a battery or a generator. The Quarry will drop all items it mines on the block on top of itself. It can be configured to jump to any Y level by right clicking it"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supermod:quarry_recipe"
+        }
+    ]
+}
